@@ -4,6 +4,7 @@ This project is a real-time American Sign Language (ASL) translator that uses a 
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,6 +13,10 @@ This project is a real-time American Sign Language (ASL) translator that uses a 
 - [Real-Time Prediction](#real-time-prediction)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Demo
+
+https://youtu.be/6hGrukDzb3c
 
 ## Features
 
