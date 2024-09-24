@@ -16,8 +16,9 @@ This project is a real-time American Sign Language (ASL) translator that uses a 
 
 ## Demo
 
-https://img.youtube.com/vi/6hGrukDzb3c/maxresdefault.jpg
+[![American Sign Language Translator Demo](https://img.youtube.com/vi/6hGrukDzb3c/maxresdefault.jpg)](https://www.youtube.com/watch?v=6hGrukDzb3c)
 
+*Click on the image to watch the demo video.*
 
 ## Features
 
