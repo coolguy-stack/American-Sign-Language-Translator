@@ -16,7 +16,8 @@ This project is a real-time American Sign Language (ASL) translator that uses a 
 
 ## Demo
 
-https://youtu.be/6hGrukDzb3c
+https://img.youtube.com/vi/6hGrukDzb3c/maxresdefault.jpg
+
 
 ## Features
 
